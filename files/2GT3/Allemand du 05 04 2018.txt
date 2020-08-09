@@ -1,0 +1,83 @@
+Allemand du Donnerstag, den 5. April 2018
+
+begegune: cotoyer
+
+schuljahren: les années d'écoles
+heissen: hiess
+elle faisait parti des peu de proffesseur que j'ai cotoyée pendant mes années d'école qui était vraiment sdes pédagogues par passion.
+pedagogen: pédagogues
+si var die beste lehrerin: c'était la meilleur proffesseur que j'ai jamais eu dans ma vie
+sie cant dabals: elle ne pouvait pas être très agée.
+Sie unterichte bei uns geshichte: elle ensaignait parmi nous l'histoire
+die alle DDR kinder ging ich auf die POS: comme tous les enfant de la RDA j'allait dans cette école. 
+POS: école de la RDA
+langue name kurzie Wirkung: un long nom pour une mauvaise école.
+Sie unterichtet: elle enseignais ses cours
+Ich persönlich habe daran keine gute Erinnerung: moi personnelement je n'ai pas de bons amis
+Ich meisen meistens sehr schnell mit den Aufgaben fertig. Den Rest der Stunde sass ich rum und beschäftigte mich auf meine Art: je finissais très rappidement mes devoirs et le reste de l'heure j'était assize là et je m'occupais à ma façon.
+sich beschäftigen: s'occuper
+
+
+ex 3 les professeurs débattent p 67
+1 Ich bin Wüten, weil Alex nie auf mich hört.
+2 Alex muss vielleicht sitzen bleiben, weil er so schlechte Noten hat.
+3 Alex langweilt sich in der Schule, weil er keine Motivation hat.
+4 Wir sollten ihm einen konkreten Vorschlag machen, weil er unsere Hilfe braucht.
+5 Wir haben seine Eltern schon angerufen, weil er mehrmals geschwärzt hat.
+6 Gestern wolte er die Klassenarbeit nicht schreiben, weil Er Brauchschmerzen hatte.
+
+ex p 62:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filename:MORSE
+".-" "A"Ù
+"-..." "B"Ù
+"-.-." "C"Ù
+"-.." "D"Ù
+"." "E"Ù
+"..-." "F"Ù
+"--." "G"Ù
+"...." "H"Ù
+".." "I"Ù
+".---" "J"Ù
+"-.-" "K"Ù
+".-.." "L"Ù
+"--" "M"Ù
+"-." "N"Ù
+"---" "O"Ù
+".--." "P"Ù
+"--.-" "Q"Ù
+".-." "R"Ù
+"..." "S"Ù
+"-" "T"Ù
+"..-" "U"Ù
+"...-" "V"Ù
+".--" "W"Ù
+"-..-" "X"Ù
+"-.--" "Y"Ù
+"--.." "Z"Ù
+Ù
+"Les nombres"Ù
+Ù
+".----" "1"Ù
+"..---" "2"Ù
+"...--" "3"Ù
+"....-" "4"Ù
+"....." "5"Ù
+"-...." "6"Ù
+"--..." "7"Ù
+"---.." "8"Ù
+"----." "9"Ù
+"-----" "0"
